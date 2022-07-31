@@ -1,0 +1,22 @@
+{
+  "name": "shorten-firebase.realtime-database",
+  "version": "2.5.0",
+  "description": "A new method to reduce your code, simple and easy to use, fast and lightweight.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "shorten",
+    "discord",
+    "database",
+    "helper",
+    "reduce",
+    "data",
+    "base",
+    "dados"
+  ],
+  "author": "Henrique Lima",
+  "license": "Apache-2.0"
+}
