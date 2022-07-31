@@ -1,4 +1,4 @@
-module.exports = class Shorten {
+class Shorten {
     constructor(firebase, warns = true) {
         if (!firebase) {
             throw new Error('Hoped to find a definition for "firebase". (11)');
